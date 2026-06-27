@@ -72,7 +72,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Configure Environment Variables
-Create a `.env` file in the root directory (based on `.env.example`):
+Create a `.env` file in the root directory :
 ```ini
 # The Movie Database (TMDB) API Key (Optional)
 # If blank, the server runs in offline fallback mode using local metadata.
