@@ -114,6 +114,9 @@ div[data-testid="stColumn"]:has(.movie-title) button:hover {
     backdrop-filter: blur(10px) !important;
 }
 </style>
+""",
+    unsafe_allow_html=True,
+)
 
 
 # =============================
